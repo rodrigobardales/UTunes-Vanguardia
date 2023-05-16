@@ -1,0 +1,12 @@
+C:\Users\Rodrigo\Source\Repos\utunes-api\UTunes.Core\bin\Debug\net7.0\UTunes.Core.deps.json
+C:\Users\Rodrigo\Source\Repos\utunes-api\UTunes.Core\bin\Debug\net7.0\UTunes.Core.dll
+C:\Users\Rodrigo\Source\Repos\utunes-api\UTunes.Core\bin\Debug\net7.0\UTunes.Core.pdb
+C:\Users\Rodrigo\Source\Repos\utunes-api\UTunes.Core\obj\Debug\net7.0\UTunes.Core.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Source\Repos\utunes-api\UTunes.Core\obj\Debug\net7.0\UTunes.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodrigo\Source\Repos\utunes-api\UTunes.Core\obj\Debug\net7.0\UTunes.Core.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Source\Repos\utunes-api\UTunes.Core\obj\Debug\net7.0\UTunes.Core.AssemblyInfo.cs
+C:\Users\Rodrigo\Source\Repos\utunes-api\UTunes.Core\obj\Debug\net7.0\UTunes.Core.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Source\Repos\utunes-api\UTunes.Core\obj\Debug\net7.0\UTunes.Core.dll
+C:\Users\Rodrigo\Source\Repos\utunes-api\UTunes.Core\obj\Debug\net7.0\refint\UTunes.Core.dll
+C:\Users\Rodrigo\Source\Repos\utunes-api\UTunes.Core\obj\Debug\net7.0\UTunes.Core.pdb
+C:\Users\Rodrigo\Source\Repos\utunes-api\UTunes.Core\obj\Debug\net7.0\ref\UTunes.Core.dll
